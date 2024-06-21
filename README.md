@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science project<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>🌟 Data Science & ML Enthusiast<br>
+🔭 I’m currently working on Full Stack Development<br>🌱 I’m currently learning Artificial Intelligence and Machine Learning<br>🌟 Data Science & ML Enthusiast<br>
 👩‍💻 Passionate Coder<br>
 🔍 Data Detective<br>
 📈 Turning Data into Insights<br>
